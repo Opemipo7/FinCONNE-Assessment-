@@ -1,10 +1,10 @@
 // Hardcoded array of user objects with names and profile pictures
 const users = [
-  { name: "Alice", image: "https://via.placeholder.com/100" },
-  { name: "Bob", image: "https://via.placeholder.com/100" },
+  { name: "Opemipo", image: "https://via.placeholder.com/100" },
+  { name: "Abimbola", image: "https://via.placeholder.com/100" },
   { name: "Charlie", image: "https://via.placeholder.com/100" },
   { name: "David", image: "https://via.placeholder.com/100" },
-  { name: "Eve", image: "https://via.placeholder.com/100" }
+  { name: "Comfort", image: "https://via.placeholder.com/100" }
 ];
 
 // Function to render users to the DOM
